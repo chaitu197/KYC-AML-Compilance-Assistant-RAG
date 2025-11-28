@@ -1,7 +1,0 @@
-transaction_id,amount,currency,country,count_24h,customer_type,is_cash
-TXN001,55000,USD,Iran,15,individual,true
-TXN002,8500,EUR,Germany,3,corporate,false
-TXN003,125000,USD,USA,25,individual,true
-TXN004,2500,GBP,UK,2,individual,false
-TXN005,95000,USD,Syria,8,individual,true
-TXN006,15000,EUR,France,1,corporate,false
