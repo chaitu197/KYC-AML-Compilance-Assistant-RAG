@@ -1,0 +1,11 @@
+question_id,query,category
+Q001,What documents are required for merchant KYC?,KYC
+Q002,What are PEP screening requirements?,AML
+Q003,What are transaction monitoring thresholds?,AML
+Q004,What is enhanced due diligence?,KYC
+Q005,What are GDPR data retention requirements?,GDPR
+Q006,How to detect suspicious transactions?,AML
+Q007,What are customer identification requirements?,KYC
+Q008,What are the FATF 40 recommendations?,AML
+Q009,What is the risk-based approach to compliance?,AML
+Q010,How to verify beneficial ownership?,KYC

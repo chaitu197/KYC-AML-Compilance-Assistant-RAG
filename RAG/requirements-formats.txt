@@ -1,0 +1,7 @@
+# Additional dependencies for multiple file format support
+python-docx>=0.8.11  # For DOCX files
+textract>=1.6.5      # For DOC, HTML, and other formats
+openpyxl>=3.1.0      # For XLSX files
+pandas>=2.0.0        # For CSV and Excel processing
+beautifulsoup4>=4.12.0  # For HTML parsing
+lxml>=4.9.0          # For XML parsing
